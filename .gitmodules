@@ -1,3 +1,0 @@
-[submodule "path_to_submodule"] 
-  path = ./themes/poison 
-  url = git://https://github.com/lukeorth/poison/
