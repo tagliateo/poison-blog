@@ -6,14 +6,13 @@
     <description>Recent content in Projects on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2024 21:15:09 -0600</lastBuildDate>
     <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ruby on Rails Projects</title>
+      <title>My Projects</title>
       <link>/projects/projects/</link>
-      <pubDate>Tue, 09 Jan 2024 21:15:09 -0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/projects/projects/</guid>
-      <description></description>
+      <description>React Virtual Deckbox - Github | Demo&#xA;A place where you can keep track of all your trading card inventory. Build the next cutting edge playing deck. Utilized JSON Web Tokens and localStorage to store encrypted user information client-side. Implemented user interface employing React and Redux with Semantic-React for styling. Leveraged Redux and Thunk middleware for asynchronous data retrieval from database to power the client’s feed. Oracle - Github | Demo</description>
     </item>
   </channel>
 </rss>

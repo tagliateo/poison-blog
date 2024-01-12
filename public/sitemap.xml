@@ -3,22 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-01-09T21:15:09-06:00</lastmod>
+    <lastmod>2024-01-11T17:51:29-06:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
-    <lastmod>2024-01-09T21:15:09-06:00</lastmod>
+    <loc>/posts/how-the-web-works/</loc>
+    <lastmod>2024-01-11T17:51:29-06:00</lastmod>
   </url><url>
-    <loc>/projects/projects/</loc>
-    <lastmod>2024-01-09T21:15:09-06:00</lastmod>
+    <loc>/tags/http/</loc>
+    <lastmod>2024-01-11T17:51:29-06:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-01-11T17:51:29-06:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-11T17:51:29-06:00</lastmod>
+  </url><url>
+    <loc>/tags/web/</loc>
+    <lastmod>2024-01-11T17:51:29-06:00</lastmod>
+  </url><url>
+    <loc>/tags/web-dev/</loc>
+    <lastmod>2024-01-11T17:51:29-06:00</lastmod>
+  </url><url>
+    <loc>/tags/intro/</loc>
+    <lastmod>2024-01-09T21:07:19-06:00</lastmod>
+  </url><url>
+    <loc>/tags/life/</loc>
+    <lastmod>2024-01-09T21:07:19-06:00</lastmod>
+  </url><url>
+    <loc>/tags/me/</loc>
+    <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
     <loc>/posts/my-first-post/</loc>
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/tags/writing/</loc>
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>/projects/projects/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>/projects/</loc>
+  </url><url>
+    <loc>/series/</loc>
   </url>
 </urlset>

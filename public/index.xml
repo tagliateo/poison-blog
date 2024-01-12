@@ -6,21 +6,28 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2024 21:15:09 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 17:51:29 -0600</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ruby on Rails Projects</title>
-      <link>/projects/projects/</link>
-      <pubDate>Tue, 09 Jan 2024 21:15:09 -0600</pubDate>
-      <guid>/projects/projects/</guid>
-      <description></description>
+      <title>How the Web Works</title>
+      <link>/posts/how-the-web-works/</link>
+      <pubDate>Thu, 11 Jan 2024 17:51:29 -0600</pubDate>
+      <guid>/posts/how-the-web-works/</guid>
+      <description>Demystifying the Maze: How the Web Works We click, we scroll, we tap - the web is an ever-present companion, but have you ever wondered what goes on behind the scenes? Let&amp;rsquo;s peel back the curtain and explore the intricate machinery that brings websites to life.&#xA;From URL to Reality:&#xA;The Address Quest: Your journey begins with a simple URL, like &amp;ldquo;www.google.com&amp;rdquo;. But computers speak IP addresses, not fancy domain names.</description>
     </item>
     <item>
       <title>My First Post</title>
       <link>/posts/my-first-post/</link>
       <pubDate>Tue, 09 Jan 2024 21:07:19 -0600</pubDate>
       <guid>/posts/my-first-post/</guid>
-      <description>Balls lorem ipsume adfkjadj;aldsald</description>
+      <description>Welcome! This is my blog where I post about my thoughts on tech and other philisophical issues. I have previously written for Medium, and have had some tech blogs published to Dev Genius, and Her Campus. However, I have decided to exclusively publish my thoughts on this site instead.</description>
+    </item>
+    <item>
+      <title>My Projects</title>
+      <link>/projects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/projects/</guid>
+      <description>React Virtual Deckbox - Github | Demo&#xA;A place where you can keep track of all your trading card inventory. Build the next cutting edge playing deck. Utilized JSON Web Tokens and localStorage to store encrypted user information client-side. Implemented user interface employing React and Redux with Semantic-React for styling. Leveraged Redux and Thunk middleware for asynchronous data retrieval from database to power the client’s feed. Oracle - Github | Demo</description>
     </item>
   </channel>
 </rss>

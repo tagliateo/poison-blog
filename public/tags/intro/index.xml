@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>intro on </title>
+    <link>/tags/intro/</link>
+    <description>Recent content in intro on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2024 21:07:19 -0600</lastBuildDate>
+    <atom:link href="/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Tue, 09 Jan 2024 21:07:19 -0600</pubDate>
+      <guid>/posts/my-first-post/</guid>
+      <description>Welcome! This is my blog where I post about my thoughts on tech and other philisophical issues. I have previously written for Medium, and have had some tech blogs published to Dev Genius, and Her Campus. However, I have decided to exclusively publish my thoughts on this site instead.</description>
+    </item>
+  </channel>
+</rss>
