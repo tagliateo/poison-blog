@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ruby on </title>
+    <link>/tags/ruby/</link>
+    <description>Recent content in ruby on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Jan 2024 17:12:20 -0600</lastBuildDate>
+    <atom:link href="/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diving into Ruby: Unlocking the World of Programming</title>
+      <link>/posts/ruby-funds/</link>
+      <pubDate>Mon, 15 Jan 2024 17:12:20 -0600</pubDate>
+      <guid>/posts/ruby-funds/</guid>
+      <description>Diving into Ruby: Unlocking the World of Programming Ruby, with its quirky syntax and friendly community, has captivated programmers for decades. Whether you&amp;rsquo;re a seasoned coder seeking a new tool or a curious newcomer wanting to build your first website, the fundamentals of Ruby offer a rewarding journey. So, grab your metaphorical shovel and let&amp;rsquo;s unearth the gems at the core of this vibrant language.&#xA;Hello, World! (With a Ruby Twist):</description>
+    </item>
+  </channel>
+</rss>
