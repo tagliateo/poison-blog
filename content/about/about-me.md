@@ -1,7 +1,6 @@
 +++
 title = 'About Me'
 date = 2024-01-15T17:22:35-06:00
-draft = true
 +++
 
 # About
