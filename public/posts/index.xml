@@ -6,8 +6,15 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jan 2024 17:12:20 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ruby on Rails vs. PHP Laravel</title>
+      <link>/posts/laravel/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/laravel/</guid>
+      <description>Ruby on Rails vs. PHP Laravel: Choosing the Right Weapon for Your Web Development Arsenal In the fast-paced world of web development, choosing the right framework can be the difference between a smooth sailing voyage and a storm-tossed journey. Ruby on Rails (RoR) and PHP Laravel are two heavyweight contenders in the framework ring, each boasting passionate followings and distinct strengths. But which one deserves a place in your development toolbox?</description>
+    </item>
     <item>
       <title>Diving into Ruby: Unlocking the World of Programming</title>
       <link>/posts/ruby-funds/</link>

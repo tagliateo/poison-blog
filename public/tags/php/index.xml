@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web on </title>
-    <link>/tags/web/</link>
-    <description>Recent content in web on </description>
+    <title>PHP on </title>
+    <link>/tags/php/</link>
+    <description>Recent content in PHP on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ruby on Rails vs. PHP Laravel</title>
       <link>/posts/laravel/</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <guid>/posts/laravel/</guid>
       <description>Ruby on Rails vs. PHP Laravel: Choosing the Right Weapon for Your Web Development Arsenal In the fast-paced world of web development, choosing the right framework can be the difference between a smooth sailing voyage and a storm-tossed journey. Ruby on Rails (RoR) and PHP Laravel are two heavyweight contenders in the framework ring, each boasting passionate followings and distinct strengths. But which one deserves a place in your development toolbox?</description>
-    </item>
-    <item>
-      <title>How the Web Works</title>
-      <link>/posts/how-the-web-works/</link>
-      <pubDate>Thu, 11 Jan 2024 17:51:29 -0600</pubDate>
-      <guid>/posts/how-the-web-works/</guid>
-      <description>Demystifying the Maze: How the Web Works We click, we scroll, we tap - the web is an ever-present companion, but have you ever wondered what goes on behind the scenes? Let&amp;rsquo;s peel back the curtain and explore the intricate machinery that brings websites to life.&#xA;From URL to Reality:&#xA;The Address Quest: Your journey begins with a simple URL, like &amp;ldquo;www.google.com&amp;rdquo;. But computers speak IP addresses, not fancy domain names.</description>
     </item>
   </channel>
 </rss>
