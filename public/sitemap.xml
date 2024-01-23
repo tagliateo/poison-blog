@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
+  </url><url>
+    <loc>/tags/ai/</loc>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
+  </url><url>
+    <loc>/posts/dune-ai/</loc>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
+  </url><url>
+    <loc>/tags/butlerian-jihad/</loc>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
+  </url><url>
+    <loc>/tags/dune/</loc>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
+  </url><url>
+    <loc>/tags/frank-herbert/</loc>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-23T12:29:51-06:00</lastmod>
   </url><url>
     <loc>/tags/coding/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
@@ -14,9 +35,6 @@
     <loc>/tags/php/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/rails/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,9 +42,6 @@
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/laravel/</loc>
-    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/web/</loc>

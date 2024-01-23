@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on </title>
+    <link>/tags/ai/</link>
+    <description>Recent content in AI on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2024 12:29:51 -0600</lastBuildDate>
+    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI and the Butlerian Jihad</title>
+      <link>/posts/dune-ai/</link>
+      <pubDate>Tue, 23 Jan 2024 12:29:51 -0600</pubDate>
+      <guid>/posts/dune-ai/</guid>
+      <description>The End of Machines, the Rise of Man? Lessons from the Butlerian Jihad on AI Development In Frank Herbert&amp;rsquo;s Dune universe, the Butlerian Jihad stands as a stark cautionary tale about the dangers of artificial intelligence. This fictional war, fought millennia before the events of the main saga, resulted in a near-complete ban on thinking machines due to their perceived threat to humanity. While Dune is science fiction, the Butlerian Jihad offers valuable insights and warnings for our own burgeoning development of AI.</description>
+    </item>
+  </channel>
+</rss>
