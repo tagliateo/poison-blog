@@ -5,10 +5,10 @@ paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
 # NOTE: If using Disqus as commenting engine, uncomment and configure this line
-# disqusShortname = "myblog-sqwpibcx2b"
+disqusShortname = "sardines-blog"
 
 [params]
-    brand = "Teo's Blog"                      # name of your site - appears in the sidebar
+    brand = "sudo apt-give up"                      # name of your site - appears in the sidebar
     remote_brand_image = 'https://github.com/sardine-bro.png' # path to a remote file
     # brand_image = "images/IMG_9919.png"    # path to the image shown in the sidebar
     description = "Hey there, welcome to my site, I'm a rugby player who writes code." # Used as default meta description if not specified in front matter
@@ -29,7 +29,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
         {Name = "Projects", URL = "/projects/", HasChildren = false},
     ]
 
-    # Links to your socials.  Comment or delete any you don't need/use. 
+    # Links to your socials.  Comment or delete any you don't need/use.
     # discord_url = "https://discord.com"
     email_url = "mailto://sardines@disroot.org"
     # facebook_url = "https://facebook.com"

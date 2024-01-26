@@ -6,8 +6,29 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 12:29:51 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 18:32:58 -0600</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>git</title>
+      <link>/tags/git/</link>
+      <pubDate>Thu, 25 Jan 2024 18:32:58 -0600</pubDate>
+      <guid>/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>gitkraken</title>
+      <link>/tags/gitkraken/</link>
+      <pubDate>Thu, 25 Jan 2024 18:32:58 -0600</pubDate>
+      <guid>/tags/gitkraken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>version control</title>
+      <link>/tags/version-control/</link>
+      <pubDate>Thu, 25 Jan 2024 18:32:58 -0600</pubDate>
+      <guid>/tags/version-control/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>/tags/ai/</link>
