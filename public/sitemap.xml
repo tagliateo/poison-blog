@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-01-25T18:32:58-06:00</lastmod>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/book/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/new-book/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/personal/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/poetry/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/writing/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/git/</loc>
     <lastmod>2024-01-25T18:32:58-06:00</lastmod>
@@ -12,12 +33,6 @@
     <lastmod>2024-01-25T18:32:58-06:00</lastmod>
   </url><url>
     <loc>/posts/gitkraken/</loc>
-    <lastmod>2024-01-25T18:32:58-06:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-01-25T18:32:58-06:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2024-01-25T18:32:58-06:00</lastmod>
   </url><url>
     <loc>/tags/version-control/</loc>
@@ -93,9 +108,6 @@
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
     <loc>/posts/my-first-post/</loc>
-    <lastmod>2024-01-09T21:07:19-06:00</lastmod>
-  </url><url>
-    <loc>/tags/writing/</loc>
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
     <loc>/projects/projects/</loc>

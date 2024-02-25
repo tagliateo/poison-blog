@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>writing on </title>
-    <link>/tags/writing/</link>
-    <description>Recent content in writing on </description>
+    <title>personal on </title>
+    <link>/tags/personal/</link>
+    <description>Recent content in personal on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Wrote Another Book</title>
       <link>/posts/new-book/</link>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/posts/new-book/</guid>
       <description>Unveiling &amp;ldquo;Verses Under a Killing Moon&amp;rdquo;: A Journey Through The Macabre in Verse I&amp;rsquo;m thrilled to finally announce the release of my debut poetry collection, &amp;ldquo;Verses Under a Killing Moon&amp;rdquo;! This project has been a labor of love, pouring my heart and soul onto the page to explore themes of dark thoughts that run through your mind at night.&#xA;Verses Under a Killing Moon takes you on a journey through fear, paranoia, and loneliness with raw honesty and lyrical beauty.</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Tue, 09 Jan 2024 21:07:19 -0600</pubDate>
-      <guid>/posts/my-first-post/</guid>
-      <description>Welcome! This is my blog where I post about my thoughts on tech and other philisophical issues. I have previously written for Medium, and have had some tech blogs published to Dev Genius, and Her Campus. However, I have decided to exclusively publish my thoughts on this site instead.</description>
     </item>
   </channel>
 </rss>

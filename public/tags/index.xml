@@ -6,8 +6,36 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 18:32:58 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>book</title>
+      <link>/tags/book/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>personal</title>
+      <link>/tags/personal/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>poetry</title>
+      <link>/tags/poetry/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/poetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/tags/writing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>git</title>
       <link>/tags/git/</link>
@@ -146,13 +174,6 @@
       <link>/tags/me/</link>
       <pubDate>Tue, 09 Jan 2024 21:07:19 -0600</pubDate>
       <guid>/tags/me/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>writing</title>
-      <link>/tags/writing/</link>
-      <pubDate>Tue, 09 Jan 2024 21:07:19 -0600</pubDate>
-      <guid>/tags/writing/</guid>
       <description></description>
     </item>
   </channel>

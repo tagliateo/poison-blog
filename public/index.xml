@@ -6,8 +6,15 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 18:32:58 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Wrote Another Book</title>
+      <link>/posts/new-book/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/new-book/</guid>
+      <description>Unveiling &amp;ldquo;Verses Under a Killing Moon&amp;rdquo;: A Journey Through The Macabre in Verse I&amp;rsquo;m thrilled to finally announce the release of my debut poetry collection, &amp;ldquo;Verses Under a Killing Moon&amp;rdquo;! This project has been a labor of love, pouring my heart and soul onto the page to explore themes of dark thoughts that run through your mind at night.&#xA;Verses Under a Killing Moon takes you on a journey through fear, paranoia, and loneliness with raw honesty and lyrical beauty.</description>
+    </item>
     <item>
       <title>Gitkraken: Taming the Git Beast</title>
       <link>/posts/gitkraken/</link>
