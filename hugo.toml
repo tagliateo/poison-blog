@@ -9,7 +9,7 @@ disqusShortname = "sardines-blog"
 
 [params]
 brand = '$ echo "Hello World, Welcome to My Blog!"'       # name of your site - appears in the sidebar
-remote_brand_image = 'https://github.com/sardine-bro.png' # path to a remote file
+remote_brand_image = 'https://github.com/tagliateo.png' # path to a remote file
 # brand_image = "images/IMG_9919.png"    # path to the image shown in the sidebar
 description = "Hey there, welcome to my site, I'm a rugby player who writes code." # Used as default meta description if not specified in front matter
 dark_mode = true                                                                   # optional - defaults to false

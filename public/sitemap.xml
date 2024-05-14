@@ -2,118 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/book/</loc>
+    <loc>//localhost:1313/tags/book/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/new-book/</loc>
+    <loc>//localhost:1313/posts/new-book/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/personal/</loc>
+    <loc>//localhost:1313/tags/personal/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/poetry/</loc>
+    <loc>//localhost:1313/tags/poetry/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/writing/</loc>
+    <loc>//localhost:1313/tags/writing/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/git/</loc>
+    <loc>//localhost:1313/tags/git/</loc>
     <lastmod>2024-01-25T18:32:58-06:00</lastmod>
   </url><url>
-    <loc>/tags/gitkraken/</loc>
+    <loc>//localhost:1313/tags/gitkraken/</loc>
     <lastmod>2024-01-25T18:32:58-06:00</lastmod>
   </url><url>
-    <loc>/posts/gitkraken/</loc>
+    <loc>//localhost:1313/posts/gitkraken/</loc>
     <lastmod>2024-01-25T18:32:58-06:00</lastmod>
   </url><url>
-    <loc>/tags/version-control/</loc>
+    <loc>//localhost:1313/tags/version-control/</loc>
     <lastmod>2024-01-25T18:32:58-06:00</lastmod>
   </url><url>
-    <loc>/tags/ai/</loc>
+    <loc>//localhost:1313/tags/ai/</loc>
     <lastmod>2024-01-23T12:29:51-06:00</lastmod>
   </url><url>
-    <loc>/posts/dune-ai/</loc>
+    <loc>//localhost:1313/posts/dune-ai/</loc>
     <lastmod>2024-01-23T12:29:51-06:00</lastmod>
   </url><url>
-    <loc>/tags/butlerian-jihad/</loc>
+    <loc>//localhost:1313/tags/butlerian-jihad/</loc>
     <lastmod>2024-01-23T12:29:51-06:00</lastmod>
   </url><url>
-    <loc>/tags/dune/</loc>
+    <loc>//localhost:1313/tags/dune/</loc>
     <lastmod>2024-01-23T12:29:51-06:00</lastmod>
   </url><url>
-    <loc>/tags/frank-herbert/</loc>
+    <loc>//localhost:1313/tags/frank-herbert/</loc>
     <lastmod>2024-01-23T12:29:51-06:00</lastmod>
   </url><url>
-    <loc>/tags/coding/</loc>
+    <loc>//localhost:1313/tags/coding/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/laravel/</loc>
+    <loc>//localhost:1313/tags/laravel/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/php/</loc>
+    <loc>//localhost:1313/tags/php/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/rails/</loc>
+    <loc>//localhost:1313/tags/rails/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ruby/</loc>
+    <loc>//localhost:1313/tags/ruby/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/laravel/</loc>
+    <loc>//localhost:1313/posts/laravel/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/web/</loc>
+    <loc>//localhost:1313/tags/web/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2024-01-15T17:22:35-06:00</lastmod>
   </url><url>
-    <loc>/about/about-me/</loc>
+    <loc>//localhost:1313/about/about-me/</loc>
     <lastmod>2024-01-15T17:22:35-06:00</lastmod>
   </url><url>
-    <loc>/tags/code/</loc>
+    <loc>//localhost:1313/tags/code/</loc>
     <lastmod>2024-01-15T17:12:20-06:00</lastmod>
   </url><url>
-    <loc>/posts/ruby-funds/</loc>
+    <loc>//localhost:1313/posts/ruby-funds/</loc>
     <lastmod>2024-01-15T17:12:20-06:00</lastmod>
   </url><url>
-    <loc>/tags/lower-level-programming/</loc>
+    <loc>//localhost:1313/tags/lower-level-programming/</loc>
     <lastmod>2024-01-15T17:12:20-06:00</lastmod>
   </url><url>
-    <loc>/posts/how-the-web-works/</loc>
+    <loc>//localhost:1313/posts/how-the-web-works/</loc>
     <lastmod>2024-01-11T17:51:29-06:00</lastmod>
   </url><url>
-    <loc>/tags/http/</loc>
+    <loc>//localhost:1313/tags/http/</loc>
     <lastmod>2024-01-11T17:51:29-06:00</lastmod>
   </url><url>
-    <loc>/tags/web-dev/</loc>
+    <loc>//localhost:1313/tags/web-dev/</loc>
     <lastmod>2024-01-11T17:51:29-06:00</lastmod>
   </url><url>
-    <loc>/tags/intro/</loc>
+    <loc>//localhost:1313/tags/intro/</loc>
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
-    <loc>/tags/life/</loc>
+    <loc>//localhost:1313/tags/life/</loc>
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
-    <loc>/tags/me/</loc>
+    <loc>//localhost:1313/tags/me/</loc>
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>//localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-01-09T21:07:19-06:00</lastmod>
   </url><url>
-    <loc>/projects/projects/</loc>
+    <loc>//localhost:1313/projects/projects/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>//localhost:1313/series/</loc>
   </url>
 </urlset>
